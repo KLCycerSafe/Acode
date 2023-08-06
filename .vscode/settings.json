@@ -1,4 +1,5 @@
-{
+true
+se{
   "editor.formatOnSave": true,
   "autoimport.doubleQuotes": false,
   "java.configuration.updateBuildConfiguration": "disabled",
